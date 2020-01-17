@@ -1,0 +1,29 @@
+ .leftarea {
+     position: fixed;
+     top: 60px;
+     left: 0px;
+     bottom: 0px;
+     background: #E6E6FA;
+     width: 20%;
+
+ }
+
+ .toparea {
+     position: fixed;
+     top: 0px;
+     left: 0px;
+     width: 100%;
+     height: 60px;
+     background: #7B68EE;
+
+ }
+
+ .contentarea {
+     position: fixed;
+     top: 60px;
+     left: 20%;
+     width: 80%;
+     bottom: 0px;
+     background: #F8F8FF;
+
+ }
